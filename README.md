@@ -1,5 +1,5 @@
-# AMATH-482
-This repository is a collection of assignments from the applied mathematics 482 course *Computational Methods for Data Analysis* taken at the University of Washington-Seattle in winter 2021. The course covered topics on data collection, data processing, and machine learning application. This repository will be a useful reasource for those who want to learn basic data analysis skills. This repository is organized into the five assignments from this course, and I will summerize the topics covered in each assignment. Additionally, each assignment includes a formal write up with more detailed information.
+# Computational Methods For Data Analysis (UW AMATH 482)
+This repository is a collection of assignments from the applied mathematics course *Computational Methods for Data Analysis* taken at the University of Washington-Seattle in winter 2021. The course covered topics on data collection, data processing, and machine learning application. This repository will be a useful reasource for those who want to learn basic data analysis skills. This repository is organized into the five assignments from this course, and I will summerize the topics covered in each assignment. Additionally, each assignment includes a formal write up with more detailed information.
 
 ## HW1: Submarine Ultrasound
 - Noise Reduction
